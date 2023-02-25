@@ -1,0 +1,37 @@
+[{
+   "doi":"10.1016/j.eurger.2015.08.005",
+   "issn":"1878-7649",
+   "year":"2015",
+   "month":"December",
+   "pages":"573--579",
+   "title":"{Writing a scientific article: A step-by-step guide for beginners}",
+   "number":"6",
+   "volume":"6",
+   "journal":"European Geriatric Medicine",
+   "publisher":"No longerElsevier",
+   "author":["Ecarnot, F.","Seronde, M.-F.","Chopard, R.","Schiele, F.","Meneveau, N."] 
+},
+{
+  "doi":"10.1016/j.ijotn.2010.05.001",
+  "issn":"1878-1241",
+  "year":"2011",
+  "month":"February",
+  "pages":"41--48",
+  "title":"{Writing for publication: A practical Six Step Approach}",
+  "number":"1",
+  "volume":"15",
+  "journal":"International Journal of Orthopaedic and Trauma Nursing",
+  "publisher":"Churchill Livingstone",
+  "author":["Driscoll, John","Aquilina, Reggie"]
+},
+{
+  "doi":"10.1038/d41586-018-02404-4",
+  "year":"2018",
+  "month":"February",
+  "pages":"129--130",
+  "title":"{How to write a first-class paper}",
+  "volume":"555",
+  "journal":"Nature",
+  "publisher":"Nature Publishing Group",
+  "author":["Gewin, Virginia"]
+}]
