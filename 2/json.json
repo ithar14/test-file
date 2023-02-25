@@ -8,7 +8,7 @@
    "number":"6",
    "volume":"6",
    "journal":"European Geriatric Medicine",
-   "publisher":"No longerElsevier"
+   "publisher":"No longerElsevier",
    "author":["Ecarnot, F.","Seronde, M.-F.","Chopard, R.","Schiele, F.","Meneveau, N."] 
 },
 {
@@ -21,7 +21,7 @@
   "number":"1",
   "volume":"15",
   "journal":"International Journal of Orthopaedic and Trauma Nursing",
-  "publisher":"Churchill Livingstone"
+  "publisher":"Churchill Livingstone",
   "author":["Driscoll, John" "Aquilina, Reggie"]
 },
 {
@@ -32,6 +32,6 @@
   "title":"{How to write a first-class paper}",
   "volume":"555",
   "journal":"Nature",
-  "publisher":"Nature Publishing Group"
+  "publisher":"Nature Publishing Group",
   "author":["Gewin, Virginia"]
 }]
