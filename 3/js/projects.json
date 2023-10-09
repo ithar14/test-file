@@ -1,0 +1,55 @@
+[{
+    "title":".bibVis",
+    "year":"2023",
+    "month":"2",
+    "desc":"evaluate your BibTex files and generate charts by Year, Top Journals, and Top Authors.",
+    "img":"../img/bib.png",
+    "url":"bibVis/",
+    "class":"dev"
+ },
+ {
+    "title":"Quuadio",
+    "year":"2022",
+    "month":"1",
+    "desc":"turn words into sound the quantum way",
+    "img":"../img/quuadio.gif",
+    "url":"../pages/quuadio.html",
+    "class":"dev"
+ },
+ {
+   "title":"c o f f e e",
+   "year":"2021",
+   "month":"11",
+   "desc":"a 3D model of a coffe cup made with blender.",
+   "img":"../img/coffee.png",
+   "url":"https://www.artstation.com/artwork/48DvYY",
+   "class":"art"
+ },
+ {
+    "title":"2Dimage3D",
+    "year":"2021",
+    "month":"6",
+    "desc":"a python based program that turns a an image to a 3D plot/file",
+    "img":"../img/2Dimg3D.jpg",
+    "url":"../pages/2Dimage3D.html",
+    "class":"dev"
+ },
+ {
+    "title":"too much to hand_le",
+    "year":"2020",
+    "month":"9",
+    "desc":"",
+    "img":"../img/hands.jpg",
+    "url":"https://www.artstation.com/artwork/AqQYxy",
+    "class":"art"
+  },
+  {
+    "title":"Lime",
+    "year":"2020",
+    "month":"8",
+    "desc":"",
+    "img":"../img/lime.jpg",
+    "url":"https://www.artstation.com/artwork/lxz4ne",
+    "class":"art"
+  }
+]
